@@ -19,6 +19,9 @@ class Teste
         else
         {
             Console.WriteLine("Nossa... que grosseria.");
+            string nome2 = "Aluna: Mafes ";
+            Console.WriteLine(nome2);
+            Console.WriteLine("Lívia mas e a projete? ");
         }
 
     }
